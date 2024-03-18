@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "c322",
+      "name": "Test",
+      "email": "Test@gmail3.com",
+      "phonenum": "220678",
+      "address": "London"
+    },
+    {
+      "id": "ffc1",
+      "name": "Alfred",
+      "email": "alfred@gmail.com",
+      "phonenum": "456789",
+      "address": "London"
+    }
+  ]
+}
